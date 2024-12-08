@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-tetiary: #39db4a;
+  --color-ttx: #90bd95;
+  --color-2ttx: #5fe26c;
+  --color-primary: #ffffff;
+  --color-secondary: #fbfbfb;
+  --color-tx: #4a4a4a;
+  --color-2tx: #555555;
+  --color-tx-food: #ff6868;
+  --color-cg: #c1f1c6;
+  --color-dish: #efefef;
+  --color-footer-bg: #edffef;
+}
